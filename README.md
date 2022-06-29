@@ -9,6 +9,9 @@ version 1.0
 from sorts import  simplesorts as ss
 
 lst = [3,5,7,2,5,1,4,9,8,0]
+
 print('unsorted list :', lst)
+
 ss.selectionsort(lst)
+
 print('selection sorted list :', lst)
