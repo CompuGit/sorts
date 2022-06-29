@@ -1,10 +1,10 @@
-#Sorts Python3
+# Sorts Python3
 
 this is a short package on sorting techniques, how different codes work on sortings
 
 version 1.0
 
-##sample code
+## sample code
 
 from sorts import  simplesorts as ss
 
